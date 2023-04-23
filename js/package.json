@@ -1,5 +1,5 @@
 {
-  "name": "@dqbd/tiktoken",
+  "name": "@okcanvas/tiktoken",
   "version": "1.0.6",
   "description": "Javascript bindings for tiktoken",
   "license": "MIT",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dqbd/tiktoken"
+    "url": "https://github.com/okcanvas/tiktoken"
   },
   "dependencies": {},
   "devDependencies": {
